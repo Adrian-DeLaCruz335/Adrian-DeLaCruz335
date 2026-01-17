@@ -1,4 +1,4 @@
-<h1>Hi, Adrian, an <a href="[https://www.linkedin.com/in/adrian-delacruz)">IT Professional</a>☺</h1>
+<h1>Hi, Adrian, an <a href="https://linkedin.com/in/adrian-delacruz">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
