@@ -13,4 +13,11 @@ Entry-level IT professional with a strong focus on troubleshooting, system monit
 
 <h2>🤳Connect with me:</h2>
 
- [linkedin]: https://www.linkedin.com/in/adrian-delacruz-76835a386/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adrian-delacruz-76835a386/)
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/adrian-delacruz-76835a386/
