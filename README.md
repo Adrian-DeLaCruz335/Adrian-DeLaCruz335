@@ -13,4 +13,4 @@ Entry-level IT professional with a strong focus on troubleshooting, system monit
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Adrian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [linkedin]: https://www.linkedin.com/in/adrian-delacruz-76835a386/
